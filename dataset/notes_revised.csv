@@ -1,0 +1,52 @@
+nid,uid,aid,nradius,nstarttime,nendtime,privacy,ndescription,ncurrentstate
+1,1,2,300,00:00:00,12:00:00,everyone,finals are insane,null
+2,2,1,100,09:00:00,21:00:00,me,merry christmas,null
+3,3,2,500,12:00:00,18:00:00,friend,happy birthday,null
+4,1,3,100,06:00:00,18:00:00,me,no state,null
+5,1,3,50,06:00:00,18:00:00,me,state_test,state_test
+6,1,201,1000,06:00:00,18:00:00,everyone,Nice weather!,null
+7,1,201,1000,06:00:00,18:00:00,everyone,A big tree here!,null
+8,1,201,1000,06:00:00,18:00:00,everyone,So many prople in Central Park!,null
+9,1,201,1000,06:00:00,18:00:00,everyone,What a cute squirrel!,null
+10,1,201,1000,06:00:00,18:00:00,everyone,Colorful Mandarin Duck Excites New Yorkers!,null
+11,1,201,1000,06:00:00,18:00:00,everyone,Here are some of my favorite photos and memories from the Park this year.,null
+12,1,201,1000,06:00:00,18:00:00,everyone,So many prople in Central Park!,null
+13,1,201,1000,06:00:00,18:00:00,everyone,What a cute squirrel!,null
+14,1,201,1000,06:00:00,18:00:00,everyone,Colorful Mandarin Duck Excites New Yorkers!,null
+15,1,201,1000,06:00:00,18:00:00,everyone,Thank you to everyone who came out and participated in the 22nd Annual Central Park Holiday Lighting,null
+16,1,201,1000,06:00:00,18:00:00,everyone,Good morning from CentralParkNYC,null
+17,1,283,1000,06:00:00,18:00:00,everyone,Heavy Homework!,null
+18,1,283,1000,06:00:00,18:00:00,everyone,The Christmas tree is lit up!,null
+19,1,283,1000,06:00:00,18:00:00,everyone,Cold today!,null
+20,1,283,1000,06:00:00,18:00:00,everyone,Sleepy in class!,null
+21,1,464,1000,06:00:00,18:00:00,everyone,The store is close to campus!,null
+22,1,464,1000,06:00:00,18:00:00,everyone,So many items here!,null
+23,1,480,1000,06:00:00,18:00:00,everyone,Hope the medicine can cure my cold,null
+24,1,380,2000,06:00:00,18:00:00,everyone,So sweet Donuts,null
+25,1,161,2000,06:00:00,18:00:00,everyone,Good food here!,null
+26,1,161,2000,06:00:00,18:00:00,everyone,I love the store!,null
+27,1,718,2000,06:00:00,18:00:00,everyone,We visited the World Trade Center area. Impressive architecture at the Oculus shopping centre. But very sobering to see the two pools where the two towers stood. The Freedom Tower stood proud next to them.,null
+28,1,718,2000,06:00:00,18:00:00,everyone,Celebrating the holiday season at the Oculus.,null
+29,1,718,2000,06:00:00,18:00:00,everyone,Sometimes NYC seems magical,null
+30,1,718,2000,06:00:00,18:00:00,everyone,Beautiful at night.  Plus the light show and the Christmas tree at Three World Trade.,null
+31,1,718,2000,06:00:00,18:00:00,everyone, It's the holiday season once again.,null
+32,1,718,2000,06:00:00,18:00:00,everyone,Westfield World Trade Center.,null
+33,1,718,2000,06:00:00,18:00:00,everyone,"I've been to One, Three, Four and Seven WTC.",null
+34,1,718,2000,06:00:00,18:00:00,everyone,Truly a moving experience.,null
+35,1,58,3000,06:00:00,18:00:00,everyone,Shopping time!,null
+36,1,103,2000,06:00:00,18:00:00,everyone,A wonderful movie,null
+37,1,130,2000,06:00:00,18:00:00,everyone,So far so good....,null
+38,1,130,2000,06:00:00,18:00:00,everyone,I'm in my happy place!,null
+39,1,130,2000,06:00:00,18:00:00,everyone,It’s lit! Bryant Park Holiday Tree is lit!.,null
+40,1,130,2000,06:00:00,18:00:00,everyone,Brisk night - so worth making a stop to check out the tree and ice skaters in #BryantPark.,null
+41,1,130,2000,06:00:00,18:00:00,everyone,Christmas light switch on,null
+42,1,130,2000,06:00:00,18:00:00,everyone,Fun night at the Bryant Park tree lighting ,null
+43,1,130,2000,06:00:00,18:00:00,everyone,Holidays Market at Bryant Park. ,null
+44,1,130,2000,06:00:00,18:00:00,everyone,Happy Saturday everyone!,null
+45,1,266,2000,06:00:00,18:00:00,everyone,Breakfast!!,null
+46,1,266,2000,06:00:00,18:00:00,everyone,"Yummy hot chocolate,2000,1
+IHOP is my happy place""",null
+47,1,266,2000,06:00:00,18:00:00,everyone,Enjoyed my first-ever senior discounted meal! Thanks ,null
+48,1,266,2000,06:00:00,18:00:00,everyone,Pancakes before,null
+49,1,266,2000,06:00:00,18:00:00,everyone,These are delicious! ,null
+50,1,266,2000,06:00:00,18:00:00,everyone,Friendly pork,null
