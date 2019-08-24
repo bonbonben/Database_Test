@@ -1,0 +1,95 @@
+#body_bg
+{
+	background-image:url(bg1.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+	background-color:#f7eb80; 
+}
+
+#login-form{
+	border: 3 px solid #eeeee; 
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px; 
+}
+
+#register-form{
+	border: 3 px solid #eeeee; 
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px; 
+}
+
+#view_note_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:600px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#create_tag_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#create_note_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#create_filter_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#friendship_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#note_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#search_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
+
+#view_location_form{
+	border: 3 px solid #eeeee;
+	padding:9px 9px;
+	width:300px; 
+	border-radius:5px;
+	border-collapse: collapse;
+	font-family: Futura, Arial, sans-serif;
+}
