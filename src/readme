@@ -1,0 +1,10 @@
+put all the file at C:\xampp\htdocs\proj
+execute dbproj1.sql at phpmyadmin
+
+login page: http://localhost/proj/login.php
+test account: ben/123ben
+password will be hashed during register
+
+user can only use his own filter
+filter cannot be null
+filter notes by tags and privacy
